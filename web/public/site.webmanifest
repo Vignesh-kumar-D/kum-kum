@@ -1,0 +1,17 @@
+{
+  "name": "Kumkum & Co",
+  "short_name": "Kumkum & Co",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F3E6",
+  "theme_color": "#F7F3E6",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
+
+
