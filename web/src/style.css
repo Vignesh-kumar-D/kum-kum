@@ -9,7 +9,7 @@
   --shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
   --max: 1100px;
 
-  font-family: Lato, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
   text-rendering: optimizeLegibility;
@@ -96,7 +96,7 @@ a:hover {
 }
 
 .nav__link {
-  font-family: 'Playfair Display', Georgia, serif;
+  font-family: Poppins, Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   font-size: 14px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -218,7 +218,7 @@ a:hover {
 .h1,
 .h2,
 .h3 {
-  font-family: 'Playfair Display', Georgia, serif;
+  font-family: Poppins, Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   color: var(--maroon-dark);
   margin: 0;
 }
