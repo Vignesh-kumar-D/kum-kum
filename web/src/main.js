@@ -181,6 +181,11 @@ function renderHome() {
           From elegant invites to cohesive event stationery, we help you tell your story
           with warmth and intention.
         </p>
+        <p class="p p--muted">
+          Based in Karnataka and serving Bengaluru (Bangalore) and beyond — Kumkum &amp; Co creates
+          bespoke wedding invitations and event design. If you’re searching for kumkum, kum-kum, kum events,
+          or “kumkumandco”, you’re in the right place.
+        </p>
         <div class="cards">
           <div class="card">
             <h3 class="h3">Invitations</h3>
@@ -275,7 +280,7 @@ function renderNotFound() {
         <h1 class="h1">404</h1>
         <p class="p">That page doesn’t exist.</p>
         <a class="btn" href="/" data-link>Go home</a>
-      </div>
+  </div>
     </section>
   `
 }
